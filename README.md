@@ -1,7 +1,7 @@
 # NLP_SIC: Sentiment Analysis of E-commerce User Reviews
 The "Sentiment Analysis of E-Commerce User Reviews" project applies Natural Language Processing (NLP), Machine Learning (SVM), and Deep Learning(PhoBERT, LSTM) techniques to enhance model accuracy and improve user experience, thereby adding value to retail and consumer activities.
 
-Table of Content
+## Table of Content
 - [EDA](#EDA) 
 ## EDA
 | Label | Label Counts |	Class Distribution |
